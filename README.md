@@ -8,6 +8,8 @@ Transparent PNG logo assets for HTML usage.
 - `assets/lotte-rental-logo-gray.png`
 - `assets/mockups/mycar-save-guide-mockup.png`
 - `assets/mockups/monthly-rental-guide-mockup.png`
+- `assets/characters/rental-character-sunglasses.png`
+- `assets/characters/rental-character-smile.png`
 
 ## Raw URL
 
@@ -45,6 +47,20 @@ Mockup references:
 >
 ```
 
+Character references:
+
+```html
+<img
+  src="https://raw.githubusercontent.com/KyleKim22/public-assets/main/assets/characters/rental-character-sunglasses.png"
+  alt="Rental character with sunglasses"
+>
+
+<img
+  src="https://raw.githubusercontent.com/KyleKim22/public-assets/main/assets/characters/rental-character-smile.png"
+  alt="Smiling rental character"
+>
+```
+
 ## jsDelivr CDN
 
 For a cleaner CDN URL after the repository is public:
@@ -54,6 +70,20 @@ For a cleaner CDN URL after the repository is public:
   src="https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/lotte-rental-assets@main/assets/lotte-rental-logo-red.png"
   alt="LOTTE rental"
   width="240"
+>
+```
+
+Character CDN references:
+
+```html
+<img
+  src="https://cdn.jsdelivr.net/gh/KyleKim22/public-assets@main/assets/characters/rental-character-sunglasses.png"
+  alt="Rental character with sunglasses"
+>
+
+<img
+  src="https://cdn.jsdelivr.net/gh/KyleKim22/public-assets@main/assets/characters/rental-character-smile.png"
+  alt="Smiling rental character"
 >
 ```
 
